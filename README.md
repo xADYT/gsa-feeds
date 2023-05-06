@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Elaborate Train and Predict mode docs arguments (#8137)
