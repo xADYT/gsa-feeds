@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
