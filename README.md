@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
