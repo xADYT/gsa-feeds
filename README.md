@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+New test for labels and crops (#8861)
