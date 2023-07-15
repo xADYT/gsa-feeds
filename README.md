@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix Yolo 8.0.206 scale bug (#7821)
