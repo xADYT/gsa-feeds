@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
