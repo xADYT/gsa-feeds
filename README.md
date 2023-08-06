@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
