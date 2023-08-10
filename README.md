@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix RTDETR generate anchor grid out of boundary (#7247)
