@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+OBB: Fix plot_images (#7592)
