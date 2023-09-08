@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
