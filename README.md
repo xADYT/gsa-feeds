@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
