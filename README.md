@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update pyproject.toml and Docs (#7274)
