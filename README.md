@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Compress docs images (#8124)
