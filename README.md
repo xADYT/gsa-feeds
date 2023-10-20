@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
