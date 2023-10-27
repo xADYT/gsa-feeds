@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
