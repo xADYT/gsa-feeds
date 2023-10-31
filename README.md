@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
