@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Explorer Cleanup (#7364)
