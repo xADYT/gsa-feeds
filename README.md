@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
