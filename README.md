@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
