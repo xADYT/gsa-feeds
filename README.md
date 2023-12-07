@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
