@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update pyproject.toml and Docs (#7274)
