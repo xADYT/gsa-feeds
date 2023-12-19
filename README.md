@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
