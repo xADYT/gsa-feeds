@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Allow Annotator PIL.Image inputs (#8397)
