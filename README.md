@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
