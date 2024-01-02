@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
