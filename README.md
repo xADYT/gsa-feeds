@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add YOLOv8 LibTorch C++ inference example (#7090)
