@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
