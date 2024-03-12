@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
