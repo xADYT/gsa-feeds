@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
