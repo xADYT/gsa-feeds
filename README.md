@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
