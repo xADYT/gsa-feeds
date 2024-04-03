@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add docs links to all dataset YAMLs (#7360)
