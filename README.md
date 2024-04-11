@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add Amazon Sagemaker Docs integrations page (#7293)
