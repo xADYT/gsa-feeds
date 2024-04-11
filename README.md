@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Cleanup Docs languages (#7865)
