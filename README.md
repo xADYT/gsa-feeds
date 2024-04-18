@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
