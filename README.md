@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
