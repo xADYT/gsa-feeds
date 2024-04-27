@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update format.yml to pull_request_target (#7460)
