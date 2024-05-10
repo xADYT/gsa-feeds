@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Elaborate Train and Predict mode docs arguments (#8137)
