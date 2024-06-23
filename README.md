@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Update pyproject.toml and Docs (#7274)
