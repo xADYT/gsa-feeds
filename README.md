@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Batch inference fixes (#8854)
