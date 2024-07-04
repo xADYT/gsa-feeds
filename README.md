@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix cmake requirements for ARM64 (#8589)
