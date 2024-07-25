@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
