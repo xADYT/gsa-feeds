@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
