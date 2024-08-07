@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
