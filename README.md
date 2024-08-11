@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
