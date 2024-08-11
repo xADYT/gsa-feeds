@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Compress docs images (#8124)
