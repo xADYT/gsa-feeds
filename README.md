@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Update TFLite Docs images (#8605)
