@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Explorer with LanceDB, Actions and Docs updates (#7487)
