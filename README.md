@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+example Google Colab
