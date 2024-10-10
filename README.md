@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Update docs building code (#7601)
