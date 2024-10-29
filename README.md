@@ -1,1 +1,1 @@
-fix resume training
+Update TFLite Docs images (#8605)
