@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+ultralytics 8.0.229 add model.embed() method (#7098)
